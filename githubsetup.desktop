@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=xxx # rename
+Comment=generated program
+Exec=/usr/bin/gnome-terminal -e "bash -c '/usr/local/bin/stats; bash'"
+Icon=/home/xxx/open-source.png # optional
+Terminal=false
+Type=Application
+Categories=Utility;Application;
