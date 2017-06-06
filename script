@@ -1,10 +1,10 @@
-#!bin/bash
+#!/bin/bash
 # Github setup script
 # pull down repository from remote
 git clone https://github.com/erikisaki/Scripting-Lab2.git
 
 # change to specific directory
-cd ./xxx/Scripting-Lab2
+cd /home/yuxuan/Scripting-Lab2
 
 # set username
 git config user.name "erikisaki"
