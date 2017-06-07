@@ -1,9 +1,8 @@
 [Desktop Entry]
 Version=0.1
-Name=xxx # rename
+Name=script
 Comment=generated program
-Exec=/usr/bin/gnome-terminal -e "bash -c '/usr/local/bin/stats; bash'"
-Icon=/home/xxx/open-source.png # optional
+Exec=/usr/bin/gnome-terminal -e "bash -c '/usr/local/bin/script; bash'"
 Terminal=false
 Type=Application
 Categories=Utility;Application;
